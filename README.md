@@ -4,4 +4,9 @@
 
 ### anotações
 
-- metodologia: Atomic Design
+- metodologia: Atomic Design 
+    - átomos
+    - moléculas 
+    - organismos 
+    - templastes 
+    - páginas
