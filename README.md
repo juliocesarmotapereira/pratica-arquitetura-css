@@ -10,3 +10,9 @@
     - organismos 
     - templastes 
     - páginas
+
+- BEM: block element modifier (bloco elemento modificador) 
+bloco (bloco pai)
+bloco__elemento (elemento filho)
+bloco--modificador
+bloco__elemento--modificador
