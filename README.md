@@ -4,14 +4,14 @@
 
 ### anotações
 
-- metodologia: Atomic Design 
+- metodologia: Atomic Design (criação de um arquivo .css para cada elemento dos nossos componentes)
     - átomos
     - moléculas 
     - organismos 
     - templastes 
     - páginas
 
-- BEM: block element modifier (bloco elemento modificador) 
+- metodologia BEM: block element modifier (bloco elemento modificador) 
     - bloco (bloco pai)
     - bloco__elemento (elemento filho)
     - bloco--modificador
