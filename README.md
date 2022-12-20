@@ -18,3 +18,4 @@
     - bloco__elemento--modificador
 
 - boa prática mantermos as propriedades em ordem alfabética.
+- imagens ilustrativas devem estar referenciadas em nossos arquivos .css. 
