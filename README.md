@@ -16,3 +16,5 @@
     - bloco__elemento (elemento filho)
     - bloco--modificador
     - bloco__elemento--modificador
+
+- boa prática mantermos as propriedades em ordem alfabética.
